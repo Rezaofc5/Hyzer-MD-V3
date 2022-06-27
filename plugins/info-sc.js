@@ -11,11 +11,11 @@ let ye = `@${m.sender.split`@`[0]}`
 let esce = `
 Hai ${ye} Lagi Nyari Sc Ya? 
 
-Nih Link Sc Nya Dibawah :
-https://youtu.be/AXPzjQ5jxx8
+GK ADA SC SCAN ,CARI SC SENDIRI
 
-_*Jangan Lupa Di Subscribe*_`
-conn.sendBut(m.chat, esce, wm3, 'Thanks', 'thanks', m) 
+_*BOT 2022 BY REZA OFFICIAL*_`
+conn.sendBut(m.chat, esce, wm3, '...
+Gw Gay Dan Gw Bangga', 'thanks', m) 
 }
 handler.help = ['sc', 'sourcecode']
 handler.tags = ['info']
