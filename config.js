@@ -6,7 +6,7 @@ global.prems = ['6281515696780']
 //=============『 Info Owner 』============== //
 global.nameowner = 'REZA GANTENG '
 global.numberowner = '6289606790112'
-global.instagram = 'https://instagram.com/Reza_official'
+global.instagram = 'https://instagram.com/itz.reza_official_'
 global.github = 'https://github.com/Rezaofc'
 global.dana = '089606790112'
 global.pulsa = '089606790112'
