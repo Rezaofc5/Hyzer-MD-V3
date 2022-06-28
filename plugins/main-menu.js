@@ -299,7 +299,11 @@ let menuu = `┌────「 *INFO BOT* 」───⬣
 │⬡ Premium : ${global.prem ? 'Yes' : 'No'}
 │⬡ Date : ${week} ${date}
 │⬡ Time : ${wib}
-╰──────────────⬣`
+╰──────────────⬣
+*BANTU FOLLOW AKUN IG OWNER*
+_https://instagram.com/itz.reza_official__
+
+```©BOT 2022 BY REZAOFC √````
 const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fromObject({
         listMessage: {
             title: `${ucapan()} ${name}`,
